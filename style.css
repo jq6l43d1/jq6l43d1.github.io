@@ -1,159 +1,89 @@
-/* Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  /* Global Styles */
-  body {
-    font-family: "Open Sans", sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #333;
-    background-color: #f8f8f8;
-  }
-  
-  a {
-    text-decoration: none;
-    color: #333;
-    transition: color 0.3s;
-  }
-  
-  a:hover {
-    color: #777;
-  }
-  
-  /* Header */
-  header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 1rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 999;
-  }
-  
-  .logo {
-    font-weight: 700;
-    font-size: 1.5rem;
-  }
-  
-  nav ul {
-    display: flex;
-  }
-  
-  nav li {
-    margin-left: 1rem;
-  }
-  
-  nav a {
-    font-weight: 700;
-    text-transform: uppercase;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
-    padding: 0.5rem 1rem;
-    border-radius: 2rem;
-    transition: background-color 0.3s;
-  }
-  
-  nav a:hover {
-    background-color: #eee;
-  }
-  
-  /* Main Content */
-  main {
-    margin-top: 5rem;
-    padding: 2rem;
-  }
-  
-  section {
-    margin-bottom: 3rem;
-  }
-  
-  section:last-of-type {
-    margin-bottom: 0;
-  }
-  
-  h1,
-  h2 {
-    text-align: center;
-    font-weight: 700;
-    margin-bottom: 1rem;
-  }
-  
-  h1 {
-    font-size: 3rem;
-  }
-  
-  h2 {
-    font-size: 2rem;
-  }
-  
-  p {
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
-  }
-  
-  ul {
-    list-style: none;
-    margin-bottom: 1.5rem;
-  }
-  
-  li {
-    margin-bottom: 0.5rem;
-  }
-  
-  /* Contact Form */
-  form {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 2rem;
-  }
-  
-  form label {
-    display: block;
-    margin-bottom: 0.5rem;
-    width: 100%;
-  }
-  
-  form input,
-  form textarea {
-    padding: 0.5rem;
-    border: 2px solid #ccc;
-    border-radius: 3px;
-    margin-bottom: 1rem;
-    width: 100%;
-  }
-  
-  form textarea {
-    height: 150px;
-  }
-  
-  form input[type="submit"] {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 0.5rem 1rem;
-    border-radius: 3px;
-    cursor: pointer;
-  }
-  
-  form input[type="submit"]:hover {
-    background-color: #555;
-  }
-  
-  /* Footer */
-  footer {
-    text-align: center;
-    margin-top: 2rem;
-    padding: 1rem;
-    background-color: #333;
-    color: #fff;
-  }
-  
+/* General styles */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F4F4F4;
+  color: #333;
+}
+
+h1, h2 {
+  color: #00BFFF;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00BFFF;
+}
+
+/* Header styles */
+
+header {
+  background-color: #FFF;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  margin: 0 20px;
+}
+
+nav a {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* Main content styles */
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  margin-bottom: 20px;
+}
+
+/* Contact form styles */
+
+input[type="text"],
+input[type="email"],
+textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+input[type="submit"] {
+  background-color: #00BFFF;
+  color: #FFF;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #1E90FF;
+}
