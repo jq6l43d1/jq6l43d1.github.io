@@ -4,12 +4,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #F4F4F4;
-  color: #333;
+  background: linear-gradient(90deg, #FFC300, #FF5733, #C70039, #900C3F);
+  color: #FFF;
 }
 
 h1, h2 {
-  color: #00BFFF;
+  color: #FFF;
 }
 
 ul {
@@ -19,18 +19,18 @@ ul {
 }
 
 a {
-  color: #333;
+  color: #FFF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00BFFF;
+  color: #FFC300;
 }
 
 /* Header styles */
 
 header {
-  background-color: #FFF;
+  background: linear-gradient(90deg, #FFC300, #FF5733, #C70039, #900C3F);
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -73,10 +73,12 @@ textarea {
   border: none;
   border-radius: 5px;
   margin-bottom: 20px;
+  background: linear-gradient(90deg, #900C3F, #C70039, #FF5733, #FFC300);
+  color: #FFF;
 }
 
 input[type="submit"] {
-  background-color: #00BFFF;
+  background: linear-gradient(90deg, #FFC300, #FF5733, #C70039, #900C3F);
   color: #FFF;
   border: none;
   padding: 10px 20px;
@@ -85,5 +87,5 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #1E90FF;
+  background: linear-gradient(90deg, #900C3F, #C70039, #FF5733, #FFC300);
 }
