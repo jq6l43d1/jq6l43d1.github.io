@@ -30,7 +30,7 @@ a:hover {
 /* Header styles */
 
 header {
-  background: linear-gradient(90deg, #3300ff, #000000);
+  background: linear-gradient(90deg, #3300ff, #3300ff);
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
