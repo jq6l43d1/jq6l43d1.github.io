@@ -4,7 +4,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: linear-gradient(180deg, #ff0000, #000000);
+  background: linear-gradient(180deg, #00ffae, #000000);
   color: #FFF;
 }
 
@@ -30,7 +30,7 @@ a:hover {
 /* Header styles */
 
 header {
-  background: linear-gradient(90deg, #ff0000, #ff0000);
+  background: linear-gradient(90deg, #00ffae, #00ffae);
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
