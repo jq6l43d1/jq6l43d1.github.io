@@ -5,11 +5,11 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(180deg, #00ffae, #009163);
-  color: #FFF;
+  color: #000;
 }
 
 h1, h2 {
-  color: #FFF;
+  color: #000;
 }
 
 ul {
@@ -25,7 +25,7 @@ a:hover {
 /* Header styles */
 
 header {
-  background: linear-gradient(90deg, #00ffae, #00ffae);
+  background: linear-gradient(90deg, #00ffa9, #00ffa9);
   padding: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -55,32 +55,4 @@ section {
 
 section h2 {
   margin-bottom: 20px;
-}
-
-/* Contact form styles */
-
-input[type="text"],
-input[type="email"],
-textarea {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  margin-bottom: 20px;
-  background: linear-gradient(90deg, #900C3F, #C70039, #FF5733, #FFC300);
-  color: #FFF;
-}
-
-input[type="submit"] {
-  background: linear-gradient(90deg, #FFC300, #FF5733, #C70039, #900C3F);
-  color: #FFF;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-input[type="submit"]:hover {
-  background: linear-gradient(90deg, #900C3F, #C70039, #FF5733, #FFC300);
 }
