@@ -6,5 +6,18 @@
     <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>Please feel free to contact me via email at s.shawn.zimmerman@gmail.com.
+I look forward to hearing from you and will do my best to respond in a timely manner.</description>
+      <content>&lt;p&gt;Please feel free to contact me via email at &lt;a href=&#34;mailto:s.shawn.zimmerman@gmail.com&#34;&gt;s.shawn.zimmerman@gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I look forward to hearing from you and will do my best to respond in a timely manner.&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

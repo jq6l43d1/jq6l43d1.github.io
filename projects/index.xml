@@ -5,16 +5,47 @@
     <link>/projects/</link>
     <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 21:27:51 -0700</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android Automation</title>
       <link>/projects/android-automation/</link>
-      <pubDate>Tue, 21 Feb 2023 21:27:51 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/android-automation/</guid>
-      <description></description>
-      <content></content>
+      <description>Years ago, I made a significant discovery in the world of Android automation: the ability to script screen touches and key presses. This breakthrough allowed me to create more sophisticated and streamlined processes on my device. I was thrilled to share this discovery with others, and it was not long before it caught the attention of the developers of the Android automation app Tasker.
+Thanks to my discovery, Tasker was able to integrate this functionality into its app, making it easier for users to automate their devices and streamline their mobile experience.</description>
+      <content>&lt;p&gt;Years ago, I made a significant &lt;a href=&#34;https://groups.google.com/g/tasker/c/LJhmfxT2mj8?pli=1&#34;&gt;discovery&lt;/a&gt; in the world of Android automation: the ability to script screen touches and key presses. This breakthrough allowed me to create more sophisticated and streamlined processes on my device. I was thrilled to share this discovery with others, and it was not long before it caught the attention of the developers of the Android automation app Tasker.&lt;/p&gt;
+&lt;p&gt;Thanks to my discovery, Tasker was able to integrate this functionality into its app, making it easier for users to automate their devices and streamline their mobile experience. It was a proud moment for me to see my contribution to the Android automation community recognized and integrated into such a popular and useful app.&lt;/p&gt;
+&lt;p&gt;Overall, I am grateful for the opportunity to have contributed to the world of Android automation, and I hope that my work continues to benefit users of Tasker and other similar apps to this day.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Bitwarden Deduplicator</title>
+      <link>/projects/bitwarden-dedup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/bitwarden-dedup/</guid>
+      <description>I recently made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.
+Thankfully, I was able to find a program on GitHub that promised to remove duplicates from my databases. Unfortunately, I soon discovered that the program was not compatible with folders, which complicated the consolidation process.</description>
+      <content>&lt;p&gt;I recently made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.&lt;/p&gt;
+&lt;p&gt;Thankfully, I was able to find a program on GitHub that promised to remove duplicates from my databases. Unfortunately, I soon discovered that the program was not compatible with folders, which complicated the consolidation process. Not one to give up easily, I decided to take matters into my own hands and forked the repository. From there, I added the necessary functionality to ensure that the program worked with organized password folders.&lt;/p&gt;
+&lt;p&gt;Overall, I am glad that I made the switch to Bitwarden, and I am proud to have been able to contribute to the password manager community by improving the functionality of an open-source program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/jq6l43d1/minimal-bitwarden-dedup-folders%22&#34;&gt;Here&lt;/a&gt; is the repo if anyone is interested.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Stopwatch for Google Sheets</title>
+      <link>/projects/stopwatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/stopwatch/</guid>
+      <description>Recently, I successfully published my first extension on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.
+Interestingly, I did not have to make any changes to the code during the review process.</description>
+      <content>&lt;p&gt;Recently, I successfully published &lt;a href=&#34;https://chrome.google.com/webstore/detail/stopwatch-for-google-shee/dldgbenmbgcinedpcmkllgabdmihabon?hl=en&#34;&gt;my first extension&lt;/a&gt; on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.&lt;/p&gt;
+&lt;p&gt;Interestingly, I did not have to make any changes to the code during the review process. Despite the challenges, I am proud to have successfully navigated the process and made my contribution to the Chrome Web Store.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

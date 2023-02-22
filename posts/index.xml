@@ -5,12 +5,11 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 20:33:19 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shawn Z</title>
+      <title>About Me</title>
       <link>/posts/shawn-z/</link>
-      <pubDate>Tue, 21 Feb 2023 20:33:19 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/shawn-z/</guid>
       <description>I am a tech enthusiast and my passion lies in exploring the endless possibilities that technology has to offer. I am a Linux devotee, and I am always eager to learn and experiment with new tools and techniques. My expertise lies in programming, and I am skilled in various programming languages such as Python, Go, Bash, and Javascript.
