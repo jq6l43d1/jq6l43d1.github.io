@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your site title</title>
+    <link>/projects/</link>
+    <description>Recent content on Your site title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Feb 2023 21:27:51 -0700</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Automation</title>
+      <link>/projects/android-automation/</link>
+      <pubDate>Tue, 21 Feb 2023 21:27:51 -0700</pubDate>
+      
+      <guid>/projects/android-automation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
