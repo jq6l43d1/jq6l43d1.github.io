@@ -36,6 +36,17 @@ Thankfully, I was able to find a program on GitHub that promised to remove dupli
     </item>
     
     <item>
+      <title>Docker to WSL</title>
+      <link>/projects/docker-to-wsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/docker-to-wsl/</guid>
+      <description>I was recently assigned to develop a custom Linux distribution for WSL, and I opted to use Docker to create it. In the process of figuring out how to convert a Docker file into a functional WSL distro, I was struck by how few resources were available on this topic online. After I successfully navigated the steps required to make this conversion, I documented my findings here in the hopes that others may find them useful.</description>
+      <content>&lt;p&gt;I was recently assigned to develop a custom Linux distribution for WSL, and I opted to use Docker to create it. In the process of figuring out how to convert a Docker file into a functional WSL distro, I was struck by how few resources were available on this topic online. After I successfully navigated the steps required to make this conversion, I documented my findings &lt;a href=&#34;https://github.com/jq6l43d1/docker-to-wsl/blob/main/README.md&#34;&gt;here&lt;/a&gt; in the hopes that others may find them useful.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Stopwatch for Google Sheets</title>
       <link>/projects/stopwatch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
