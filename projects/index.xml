@@ -26,9 +26,9 @@ Thanks to my discovery, Tasker was able to integrate this functionality into its
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/bitwarden-dedup/</guid>
-      <description>I recently made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.
+      <description>I made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.
 Thankfully, I was able to find a program on GitHub that promised to remove duplicates from my databases. Unfortunately, I soon discovered that the program was not compatible with folders, which complicated the consolidation process.</description>
-      <content>&lt;p&gt;I recently made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.&lt;/p&gt;
+      <content>&lt;p&gt;I made the switch from KeePassDX to Bitwarden as my password manager of choice. However, this transition was not without its challenges. Specifically, I had to consolidate three different databases into one, which was no easy feat.&lt;/p&gt;
 &lt;p&gt;Thankfully, I was able to find a program on GitHub that promised to remove duplicates from my databases. Unfortunately, I soon discovered that the program was not compatible with folders, which complicated the consolidation process. Not one to give up easily, I decided to take matters into my own hands and forked the repository. From there, I added the necessary functionality to ensure that the program worked with organized password folders.&lt;/p&gt;
 &lt;p&gt;Overall, I am glad that I made the switch to Bitwarden, and I am proud to have been able to contribute to the password manager community by improving the functionality of an open-source program.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/jq6l43d1/minimal-bitwarden-dedup-folders%22&#34;&gt;Here&lt;/a&gt; is the repo if anyone is interested.&lt;/p&gt;
@@ -52,10 +52,35 @@ Thankfully, I was able to find a program on GitHub that promised to remove dupli
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/stopwatch/</guid>
-      <description>Recently, I successfully published my first extension on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.
+      <description>I successfully published my first extension on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.
 Interestingly, I did not have to make any changes to the code during the review process.</description>
-      <content>&lt;p&gt;Recently, I successfully published &lt;a href=&#34;https://chrome.google.com/webstore/detail/stopwatch-for-google-shee/dldgbenmbgcinedpcmkllgabdmihabon?hl=en&#34;&gt;my first extension&lt;/a&gt; on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.&lt;/p&gt;
+      <content>&lt;p&gt;I successfully published &lt;a href=&#34;https://chrome.google.com/webstore/detail/stopwatch-for-google-shee/dldgbenmbgcinedpcmkllgabdmihabon?hl=en&#34;&gt;my first extension&lt;/a&gt; on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.&lt;/p&gt;
 &lt;p&gt;Interestingly, I did not have to make any changes to the code during the review process. Despite the challenges, I am proud to have successfully navigated the process and made my contribution to the Chrome Web Store.&lt;/p&gt;
+&lt;p&gt;I used Chat-GPT to write a poem about my experience.&lt;/p&gt;
+&lt;p&gt;After six rejections, I thought it was done,
+My extension, the stopwatch for Google Sheets,
+But then it happened, the seventh time around,
+It got published, and it brought me to my feet.&lt;/p&gt;
+&lt;p&gt;The excitement, the joy, the relief I felt,
+Were indescribable, they can&amp;rsquo;t be put in words,
+For I had worked hard, and I never gave up,
+And now, my efforts had finally paid off, no holds barred.&lt;/p&gt;
+&lt;p&gt;I had spent hours coding, debugging, and testing,
+Trying to make my extension the best it could be,
+And now, with it published in the Chrome Web Store,
+I can finally share it with the world, and make it free.&lt;/p&gt;
+&lt;p&gt;For others, the stopwatch for Google Sheets,
+May seem like a small thing, a simple tool to use,
+But for me, it&amp;rsquo;s a symbol of persistence and dedication,
+And the belief that with hard work, we can never lose.&lt;/p&gt;
+&lt;p&gt;So let this be a lesson to us all,
+To keep trying, and never give up on our dreams,
+For even when the road seems rough and tough,
+With determination, we can make it through, it seems.&lt;/p&gt;
+&lt;p&gt;And so, my stopwatch for Google Sheets,
+Is a reminder of the power of persistence and grit,
+For when we keep going, even when the odds are against us,
+We can achieve anything, and never quit.&lt;/p&gt;
 </content>
     </item>
     
