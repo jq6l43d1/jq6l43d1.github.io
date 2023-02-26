@@ -56,6 +56,7 @@ Thankfully, I was able to find a program on GitHub that promised to remove dupli
 Interestingly, I did not have to make any changes to the code during the review process.</description>
       <content>&lt;p&gt;I successfully published &lt;a href=&#34;https://chrome.google.com/webstore/detail/stopwatch-for-google-shee/dldgbenmbgcinedpcmkllgabdmihabon?hl=en&#34;&gt;my first extension&lt;/a&gt; on the Chrome Web Store. The extension adds a timer functionality to Google Sheets, making it more efficient and user-friendly. Although the coding process was straightforward, the approval process was not without its challenges. In fact, it took several attempts, a total of six resubmissions, before the extension was finally approved for publication.&lt;/p&gt;
 &lt;p&gt;Interestingly, I did not have to make any changes to the code during the review process. Despite the challenges, I am proud to have successfully navigated the process and made my contribution to the Chrome Web Store.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;I used Chat-GPT to write a poem about my experience.&lt;/p&gt;
 &lt;p&gt;After six rejections, I thought it was done,&lt;br&gt;
 My extension, the stopwatch for Google Sheets,&lt;br&gt;
